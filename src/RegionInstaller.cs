@@ -16,14 +16,16 @@ namespace RegionInstaller
     {
         public const string Id = "com.nb1x.regioninstaller";
         public const string Name = "RegionInstaller";
-        public const string Version = "1.2.1";
+        public const string Version = "1.0.0-ReSubmerged";
+
+        public const string Author = "Nb1X and ReSubmerged Devlopers";
 
         public static string ConfigPath => Path.Combine(Paths.ConfigPath, "CustomRegions.cfg");
         public Harmony Harmony { get; } = new Harmony(Id);
 
         public override void Load()
         {
-            Log.LogInfo($"[RegionInstaller] Loading {Name} v{Version}...");
+            Log.LogInfo($"[RegionInstaller] Loading {Name} v{Version} by {Author}...");
 
             ConfigData configData = ConfigFile.LoadOrCreate(ConfigPath);
 
