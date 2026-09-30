@@ -21,59 +21,31 @@ namespace RegionInstaller
 GlitchedLobbiesRegion = false
 
 [Region 1]
-Name = Skeld.net
+Name = skeld.net
 Address = play.skeld.net
 Https = true
 Dtls = false
 Port = 443, 22023
 
 [Region 2]
-Name = Niko_NA
-Address = au-us.niko233.top
-Https = true
-Dtls = false
-Port = 443, 22023
-
-[Region 3]
-Name = Niko_EU
-Address = au-eu.niko233.top
-Https = true
-Dtls = false
-Port = 443, 22023
-
-[Region 4]
-Name = Niko_AS
-Address = au-as.niko233.top
-Https = true
-Dtls = false
-Port = 443, 22023
-
-[Region 5]
-Name = Modded NA
-Address = aumods.org
-Https = true
-Dtls = false
-Port = 443, 22023
-
-[Region 6]
 Name = Modded EU
 Address = au-eu.duikbo.at
 Https = true
 Dtls = false
 Port = 443, 22023
 
-[Region 7]
-Name = Modded AS
-Address = au-as.duikbo.at
+[Region 3]
+Name = Modded Crew EU
+Address = moddedcrew.duckdns.org
 Https = true
 Dtls = false
 Port = 443, 22023
 
-[Region 8]
-Name = Default
-Address =
-Https =
-Dtls =
+[Region 4]
+Name = ReSubmerged EU
+Address = resubmerged-eu.duckdns.org
+Https = true
+Dtls = false
 Port = 443, 22023
 ";
                 File.WriteAllText(configPath, defaultConfig);
