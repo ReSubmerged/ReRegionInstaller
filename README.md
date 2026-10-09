@@ -9,13 +9,12 @@
   <br />
   <br />
   <a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/version-v1.0.1-blue" alt="Version" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/version-v1.1.0-blue" alt="Version" /></a>
   <a href="#"><img src="https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/" alt="Dotnet" /></a>
   <a href="#"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
   <a href="#"><img src="https://badgen.net/badge/icon/windows?icon=windows&label" alt="Windows" /></a>
   <a href="#"><img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Badges Are Awesome" /></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Licence" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
   <a href="stargazers"><img src="https://img.shields.io/github/stars/BetterUsProject/AUModdedRegions?style=flat" alt="GitHub Stars" /></a>
 </p>
 
@@ -23,10 +22,26 @@ RegionInstaller is a BepInEx plugin that removes Innersloth regions from Among U
 
 It adds the following regions (and the regions added manually in the config file):
 
-- Niko233 (NA)
-- Modded EU
-- Modded NA
-- Modded AS
+- Niko233 :
+    - Niko (AS)
+    - Niko (CN)
+ 
+- MAUL :
+    - MAUL (EU)
+    - MAUL (NA)
+
+- Miniduikboot :
+    - Moddeu EU
+    - Modded NA
+    - Modded AS
+
+- GG :
+    - GG US
+    - GG HU
+  
+- AOU Europe
+- Modded Crew EU
+- Jarne's MEU
 
 and removes these regions:
 - North America

@@ -16,7 +16,7 @@ namespace RegionInstaller
     {
         public const string Id = "com.nb1x.regioninstaller";
         public const string Name = "RegionInstaller";
-        public const string Version = "1.0.0-ReSubmerged";
+        public const string Version = "1.1.0-ReSubmerged";
 
         public const string Author = "Nb1X and ReSubmerged Devlopers";
 
