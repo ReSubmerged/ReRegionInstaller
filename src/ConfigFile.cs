@@ -56,15 +56,64 @@ Dtls = false
 Port = 443, 22023
 
 [Region 6]
-Name = Modded Crew EU
-Address = moddedcrew.duckdns.org
+Name = Niko AS
+Adress = au-as.niko233.top
 Https = true
 Dtls = false
 Port = 443, 22023
 
 [Region 7]
-Name = ReSubmerged EU
-Address = resubmerged-eu.duckdns.org
+Name = Niko CN
+Adress = au-cn.netease.me
+Https = true
+Dtls = false
+Port = 443, 22023
+
+[Region 8]
+Name = AOU Europe
+Adress = eu.allofus.dev.top
+Https = true
+Dtls = false
+Port = 443, 22023
+
+[Region 9]
+Name = MAUL (EU)
+Adress = eu.moddedamongus.us
+Https = true
+Dtls = false
+Port = 443, 22023
+
+[Region 10]
+Name = MAUL (NA)
+Adress = au.moddedamongus.us
+Https = true
+Dtls = false
+Port = 443, 22023
+
+[Region 11]
+Name = Jarne's MEU
+Adress = modmanagere.eu.amongusclub.cn
+Https = true
+Dtls = false
+Port = 443, 22023
+
+[Region 12]
+Name = GG US
+Adress = play-us.gurge44.eu
+Https = true
+Dtls = false
+Port = 443, 22023
+
+[Region 13]
+Name = GG HU
+Adress = play-hu.gurge44.eu
+Https = true
+Dtls = false
+Port 443, 22023
+
+[Region 14]
+Name = Modded Crew EU
+Address = moddedcrew.duckdns.org
 Https = true
 Dtls = false
 Port = 443, 22023
