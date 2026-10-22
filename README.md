@@ -8,11 +8,13 @@
   <img src="static/logo.png" alt="Logo" width="300" />
   <br />
   <br />
-  <a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status" /></a>
   <a href="#"><img src="https://img.shields.io/badge/version-v1.1.0-blue" alt="Version" /></a>
   <a href="#"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Licence" /></a>
   <a href="stargazers"><img src="https://img.shields.io/github/stars/ReSubmerged/ReRegionInstaller?style=flat" alt="GitHub Stars" /></a>
+  <a href="https://discord.gg/zz2bCrU8wp">
+		<img alt="Discord" src="https://img.shields.io/discord/1076082745509429268?color=cornflowerblue&label=Discord&logo=Discord&logoColor=white">
+	</a>
 </p>
 
 RegionInstaller is a BepInEx plugin that removes Innersloth regions from Among Us and adds other regions that supports [modded handshake](https://github.com/NuclearPowered/Reactor.Impostor).
