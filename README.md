@@ -8,7 +8,7 @@
   <img src="static/logo.png" alt="Logo" width="300" />
   <br />
   <br />
-  </a> href="https://github.com/ReSubmerged/ReRegionInstaller/releases">
+  <a href="https://github.com/ReSubmerged/ReRegionInstaller/releases">
 		<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/ReSubmerged/ReRegionInstaller/total?cacheSeconds=300">
 	</a>
 	<a href="https://github.com/ReSubmerged/ReRegionInstaller/releases/latest">
