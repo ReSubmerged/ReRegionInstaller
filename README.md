@@ -12,10 +12,9 @@
 		<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/ReSubmerged/ReRegionInstaller/total?cacheSeconds=300">
 	</a>
 	<a href="https://github.com/ReSubmerged/ReRegionInstaller/releases/latest">
-		<img alt="Latest GitHub Release" src="https://img.shields.io/github/v/release/ReSubmerged/ReRegionInstaller ?include_prereleases">
+		<img alt="Latest GitHub Release" src="https://img.shields.io/github/v/release/ReSubmerged/ReRegionInstaller?include_prereleases">
 	</a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Licence" /></a>
-  <a href="stargazers"><img src="https://img.shields.io/github/stars/ReSubmerged/ReRegionInstaller?style=flat" alt="GitHub Stars" /></a>
   <a href="https://discord.gg/zz2bCrU8wp">
 		<img alt="Discord" src="https://img.shields.io/discord/1076082745509429268?color=cornflowerblue&label=Discord&logo=Discord&logoColor=white">
 	</a>
