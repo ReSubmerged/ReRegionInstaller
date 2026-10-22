@@ -8,8 +8,12 @@
   <img src="static/logo.png" alt="Logo" width="300" />
   <br />
   <br />
-  <a href="#"><img src="https://img.shields.io/badge/version-v1.1.0-blue" alt="Version" /></a>
-  <a href="#"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
+  </a> href="https://github.com/ReSubmerged/ReRegionInstaller/releases">
+		<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/ReSubmerged/ReRegionInstaller/total?cacheSeconds=300">
+	</a>
+	<a href="https://github.com/ReSubmerged/ReRegionInstaller/releases/latest">
+		<img alt="Latest GitHub Release" src="https://img.shields.io/github/v/release/ReSubmerged/ReRegionInstaller ?include_prereleases">
+	</a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Licence" /></a>
   <a href="stargazers"><img src="https://img.shields.io/github/stars/ReSubmerged/ReRegionInstaller?style=flat" alt="GitHub Stars" /></a>
   <a href="https://discord.gg/zz2bCrU8wp">
