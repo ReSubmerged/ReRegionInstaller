@@ -10,12 +10,9 @@
   <br />
   <a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status" /></a>
   <a href="#"><img src="https://img.shields.io/badge/version-v1.1.0-blue" alt="Version" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/" alt="Dotnet" /></a>
   <a href="#"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
-  <a href="#"><img src="https://badgen.net/badge/icon/windows?icon=windows&label" alt="Windows" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Badges Are Awesome" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Licence" /></a>
-  <a href="stargazers"><img src="https://img.shields.io/github/stars/BetterUsProject/AUModdedRegions?style=flat" alt="GitHub Stars" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Licence" /></a>
+  <a href="stargazers"><img src="https://img.shields.io/github/stars/ReSubmerged/ReRegionInstaller?style=flat" alt="GitHub Stars" /></a>
 </p>
 
 RegionInstaller is a BepInEx plugin that removes Innersloth regions from Among Us and adds other regions that supports [modded handshake](https://github.com/NuclearPowered/Reactor.Impostor).
