@@ -7,6 +7,7 @@ using HarmonyLib;
 using Il2CppInterop.Runtime.InteropTypes.Arrays;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Reactor.Utilities;
 
 namespace RegionInstaller
 {
@@ -16,7 +17,7 @@ namespace RegionInstaller
     {
         public const string Id = "com.nb1x.regioninstaller";
         public const string Name = "RegionInstaller";
-        public const string Version = "1.1.0-ReSubmerged";
+        public const string Version = "1.2.0-ReSubmerged";
 
         public const string Author = "Nb1X and ReSubmerged Devlopers";
 
@@ -42,6 +43,13 @@ namespace RegionInstaller
 
             string regionJsonPath = Path.Combine(Application.persistentDataPath, "regionInfo.json");
             RegionFileGenerator.RegenerateRegionFile(regionJsonPath, configData);
+
+            ReactorCredits.Register(
+            "ReRegionInstaller",
+            Version,
+            false,
+            ReactorCredits.AlwaysShow
+            );
 
             Harmony.PatchAll();
 
