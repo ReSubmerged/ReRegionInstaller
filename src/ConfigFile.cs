@@ -63,8 +63,8 @@ Dtls = false
 Port = 443, 22023
 
 [Region 7]
-Name = Niko CN
-Adress = au-cn.netease.me
+Name = Niko EU
+Adress = au-eu.niko233.top
 Https = true
 Dtls = false
 Port = 443, 22023

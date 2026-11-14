@@ -25,8 +25,9 @@ RegionInstaller is a BepInEx plugin that removes Innersloth regions from Among U
 It adds the following regions (and the regions added manually in the config file):
 
 - Niko233 :
+    - Niko (NA)
     - Niko (AS)
-    - Niko (CN)
+    - Niko (EU)
  
 - MAUL :
     - MAUL (EU)
@@ -56,7 +57,7 @@ Niko233 regions website: https://au.niko233.top
 
 Modded EU/NA/AS régions website: https://duikbo.at
 
-For more information, see [Informations](INFO.md).
+For more information, see [Informations](./.github/INSTALL.md).
 
 For mod developers that want to integrate this plugin to their mods, you can. See [license here](LICENSE).
 
